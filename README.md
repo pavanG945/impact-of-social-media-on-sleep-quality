@@ -84,4 +84,3 @@ This data analysis project explores the correlation between social media usage p
 
 ---
 
-### Made with ❤️ by [Pavan Gembali](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
